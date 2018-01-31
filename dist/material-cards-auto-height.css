@@ -10838,6 +10838,11 @@ button.close {
 .page-header h1 {
   font-weight: 900;
 }
+.page-header-stay-in-front {
+  position: relative;
+  z-index: 1;
+  border-bottom: none;
+}
 .material-card.Yellow h2,
 .material-card.Amber h2 {
   color: black;
