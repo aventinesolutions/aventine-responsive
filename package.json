@@ -20,6 +20,7 @@
   },
   "devDependencies": {
     "css-loader": "^0.28.0",
+    "css2less": "^0.1.4",
     "extract-text-webpack-plugin": "^2.1.0",
     "file-loader": "^1.1.6",
     "font-awesome-webpack": "^0.0.5-beta.2",

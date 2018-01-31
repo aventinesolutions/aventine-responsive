@@ -1358,6 +1358,10 @@ css-selector-tokenizer@^0.7.0:
     fastparse "^1.1.1"
     regexpu-core "^1.0.0"
 
+css2less@^0.1.4:
+  version "0.1.4"
+  resolved "https://registry.yarnpkg.com/css2less/-/css2less-0.1.4.tgz#13a2773771ad680704460416f3ecf794fedf6d08"
+
 cssesc@^0.1.0:
   version "0.1.0"
   resolved "https://registry.yarnpkg.com/cssesc/-/cssesc-0.1.0.tgz#c814903e45623371a0477b40109aaafbeeaddbb4"
