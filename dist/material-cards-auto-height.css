@@ -29,7 +29,6 @@
   -webkit-animation: imageAnimation 36s linear infinite 0s;
   -moz-animation: imageAnimation 36s linear infinite 0s;
   -o-animation: imageAnimation 36s linear infinite 0s;
-  -ms-animation: imageAnimation 36s linear infinite 0s;
   animation: imageAnimation 36s linear infinite 0s;
 }
 
@@ -44,7 +43,6 @@
   -webkit-animation: titleAnimation 36s linear infinite 0s;
   -moz-animation: titleAnimation 36s linear infinite 0s;
   -o-animation: titleAnimation 36s linear infinite 0s;
-  -ms-animation: titleAnimation 36s linear infinite 0s;
   animation: titleAnimation 36s linear infinite 0s;
 }
 
@@ -235,13 +233,11 @@
 @-ms-keyframes imageAnimation {
   0% {
     opacity: 0;
-    -ms-animation-timing-function: ease-in;
   }
 
   8% {
     opacity: 1;
     -ms-transform: scale(1.05);
-    -ms-animation-timing-function: ease-out;
   }
 
   17% {
