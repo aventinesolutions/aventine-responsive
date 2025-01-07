@@ -1,6 +1,6 @@
 Material Cards [![CodeHunt.io](https://img.shields.io/badge/vote-codehunt.io-02AFD1.svg)](http://codehunt.io/sub/responsive-material-card/?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)   
 ==============
-Version 1.0.24
+Version 1.0.26
 Simple user card based on [Google Material Color palette](https://www.google.com/design/spec/style/color.html#color-color-palette) and jQuery.
 
 [![See full preview](http://u.lorenzoferrara.net/marlenesco/material-card/card-preview.jpg)](http://codepen.io/marlenesco/full/NqOozj/)
@@ -134,6 +134,10 @@ Kill the webpack process if it is watching the files then do ...
 rake --trace
 ```
 ## Deploying to Google Cloud using the Ruby API
+* For MacOS, ensure that the Google Cloud CLI is installed
+```shell
+brew install --cask google-cloud-sdk
+```
 * GCP Ruby API requires the "application default" login
 ```shell
 gcloud auth application-default login
