@@ -1,6 +1,6 @@
 Material Cards [![CodeHunt.io](https://img.shields.io/badge/vote-codehunt.io-02AFD1.svg)](http://codehunt.io/sub/responsive-material-card/?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)   
 ==============
-Version 1.0.26
+Version 1.0.29
 Simple user card based on [Google Material Color palette](https://www.google.com/design/spec/style/color.html#color-color-palette) and jQuery.
 
 [![See full preview](http://u.lorenzoferrara.net/marlenesco/material-card/card-preview.jpg)](http://codepen.io/marlenesco/full/NqOozj/)
@@ -178,6 +178,3 @@ Always rotate in this order:
 4. Blue-Grey
 5. Yellow
 6. Amber
-
-
-
