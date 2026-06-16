@@ -115,6 +115,8 @@
 - !ruby/object:Pathname
   path: images/Luminis-256x256.png
 - !ruby/object:Pathname
+  path: images/Malibu91_Picsart_25-12-19_00-14-16-725_1024x1024.jpg
+- !ruby/object:Pathname
   path: images/Pride FBI Gangster 897e9295-b0e5-4c42-b1f2-92aafd80df19 922x922.jpg
 - !ruby/object:Pathname
   path: images/Pride Progress Flag Abstract One 256x256.png
@@ -216,4 +218,4 @@
   path: images/zend.jpg
 :bucket: aventine-responsive
 :action: :deployed
-:executed: 2026-05-20 16:31:18.740262700 +02:00
+:executed: 2026-06-16 15:37:59.264085062 +02:00
